@@ -1,0 +1,12 @@
+{
+  "name": "mc-factions-afk-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^4.20.0",
+    "prismarine-chunk": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
